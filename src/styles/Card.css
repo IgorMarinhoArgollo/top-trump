@@ -1,0 +1,146 @@
+
+.previewTitle {
+  padding-top   : 60px;
+  padding-bottom: 45px;
+  font-weight   : 900;
+  margin-left: 45px;
+}
+
+.backCard {
+  width: 230px;
+  height: 350px;
+  background-color: #036b52;
+  margin: 0 auto;
+  border-radius: 15px;
+  border: solid 7px #fafafa;
+  margin-bottom: 15px;
+}
+
+.card {
+  width: 190px;
+  height: 310px;
+  background-color: #fafafa;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 15px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.cardNameDiv {
+  padding-top: 3px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  width: 100%;
+  background-color: #023031;
+  height: 30px;
+  text-align: end;
+  font-size: 18px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.imgDiv {
+  background-color: #f1d900;
+  height: 130px;
+  align-content: flex-end;
+}
+
+.imgDiv img {
+  width: 100%;
+  height: 100%;
+}
+
+.trumpIcon {
+  width: 45px;
+  height: 45px;
+  background-color: #036b52;
+  border-radius: 50%;
+  border: 3px solid #023031;
+  font-size: 8px;
+  position: relative;
+  top: -70px;
+  right: -135px;
+}
+
+.trumpIcon p {
+margin-top: 9px;
+margin-left: 5px;
+transform: rotate(-10deg);
+}
+
+.descriptionDiv {
+  background-color: #036b52;
+  height: 50px;
+  padding: 5px;
+  text-align: start;
+  color: white;
+  font-size: 10px;
+  transform: rotate(-5deg);
+  position: relative;
+  left: -2.5px;
+  top: -8px;
+  width: 105%;
+}
+
+.descriptionDiv h3 {
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 10px;
+}
+
+.attributes {
+  background-color: white;
+  padding-top: 5px;
+}
+
+.atts {
+  color: black;
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: flex-end;
+  font-size: 13px;
+  padding-right: 15px;
+  padding-top: 3px;
+}
+
+.atts h2 {
+  background-color: #023031;
+  color: #fafafa;
+  padding: 1px 5px;
+  border-bottom-right-radius:3px;
+  border-top-right-radius: 3px;
+  min-width: 30px;
+  min-height: 20px;
+  font-size: 11px;
+  padding-top: 3px;
+}
+
+.atts p {
+  background-color: #d3d3d3;
+  padding-left: 5px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  align-self: center;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.rarityDiv {
+  font-size: 10px;
+  padding-top: 2px;
+  position: relative;
+}
+
+.rarityDiv h2 {
+  background-color: #023031;
+  padding: 1px 7px;
+  margin-top: 3px;
+  max-width: 80px;
+  border-radius: 4px;
+  position: absolute;
+  right: 0;
+  bottom: -25px;
+  border-top-right-radius:0 ;
+}

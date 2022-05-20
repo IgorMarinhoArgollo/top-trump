@@ -1,0 +1,149 @@
+* {
+  box-sizing : border-box;
+  margin     : 0;
+  padding    : 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  min-height      : 50px;
+  background-color: #036b52;
+  text-align      : center;
+  color           : #f0f2f5;
+  padding         : 15px 25px;
+  width           : 100%;
+  font-size       : 15px;
+}
+
+.subtitle {
+  padding-top: 5px;
+  font-size  : 11px;
+}
+
+.instructions {
+  color           : #3f3f3f;
+  padding-top     : 15px;
+  font-size       : 13px;
+  background-color: white;
+  justify-self    : center;
+  margin-left: 25px;
+}
+
+.instructionsText {
+  text-align: start;
+  max-width : 900px;
+  margin    : 0 auto;
+}
+
+.obs {
+  font-size: 10px;
+}
+
+@media screen and (min-width: 400px) {
+  header {
+    font-size: 23px;
+  }
+
+  .subtitle {
+    font-size: 15px;
+  }
+
+  .instructions {
+    font-size  : 17px;
+    margin-left: 25px;
+  }
+
+  .obs {
+    font-size: 13px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .instructions {
+    font-size: 19px;
+  }
+
+  .obs {
+    font-size: 15px;
+  }
+}
+
+.createCard {
+  display        : flex;
+  width          : 100%;
+  text-align     : center;
+  justify-content: center;
+  flex-wrap      : wrap;
+}
+
+
+.form {
+  max-width       : 450px;
+  width           : 100%;
+  justify-content : center;
+  background-color: #fafafa;
+}
+
+.previewCard {
+  max-width       : 450px;
+  width           : 100%;
+  background-color: #023031;
+  color           : #fafafa;
+  text-align      : start;
+}
+
+.savedCards {
+  width: 100%;
+}
+
+.savedCardsTitle {
+  margin-left  : 15%;
+  font-size    : 21px;
+  margin-top   : 25px;
+  margin-bottom: 25px;
+}
+
+.savedCardsDiv {
+  display        : flex;
+  flex-wrap      : wrap;
+  justify-content: space-evenly;
+}
+
+.cardNameDiv h4 {
+  color     : #fafafa;
+}
+
+.rarityDiv h2 {
+  color: #fafafa;
+}
+
+.savedCardsDiv .trumpIcon {
+  position  : relative;
+  top       : 0;
+  margin-top: -75px;
+  color     : #fafafa;
+}
+
+.savedCardsDiv .trumpIcon p {
+  margin-left: 5px;
+}
+
+@media print {
+  header {
+    display: none;
+  }
+  .instructions {
+    display: none;
+  }
+  .createCard {
+    display: none;
+  }
+
+  .savedCardsTitle {
+    display: none;
+  }
+
+  .backCard {
+    margin-bottom: 1px;
+  }
+}
