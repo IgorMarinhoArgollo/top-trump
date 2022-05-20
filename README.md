@@ -11,7 +11,7 @@ This project was inspired on the first project I did while studying the module o
 
 
 ## Live Link
-<a href="quidditch-form.netlify.app" target="_blank">Quidditch Fan Registration Form</a>
+<a href="top-trump-deckbuilder.netlify.app" target="_blank">Top Trump Deck Builder</a>
   
 ## Screenshot
 ![ScreenShot](./src/images/fullPage.png)
