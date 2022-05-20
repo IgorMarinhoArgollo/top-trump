@@ -25,7 +25,7 @@ class App extends React.Component {
   }
 
   imgSaver = (event) => {
-    const reader = new FileReader;
+    const reader = new FileReader();
     reader.readAsDataURL(event.target.files[0]);
     reader.onloadend = () => {
       this.setState({
