@@ -1,4 +1,43 @@
 # Top Trump Deck Builder Project
+
+<details>
+  <summary><h2>:brazil: Português</h2></summary>
+  Esse projeto foi inspirado no primeiro projeto que fiz no módulo de Desenvolvimento Web FrontEnd no curso da Trybe. O seu objetivo primário foi praticar transferência de informações por Props e praticar a estilização baseada em um modelo Figma.
+  
+  ## Objetivos
+  * Usar Props para enviar informações entre componentes;
+  * Seguir um modelo Figma (sem especificação exata de fontes, tamanhos e cores) para fazer a estilização;
+  * Design responsivo;
+  * Permitir ao usuário realizar o upload de imagens para a geração de cartas;
+  * Realizar configuração e área de impressão;
+  * Aplicar algumas validações nos campos de input.
+
+  ## Live Link
+  <a href="http://top-trump-deckbuilder.netlify.app" target="_blank">Criador de Decks SuperTrunfo</a>
+  
+  ## Screenshot
+  ![ScreenShot](./src/images/fullPage.png)
+  <br>
+  Imagem do modelo Figma:                 |         ScreenShot da página
+  :--------------------------------------:|:--------------------------------------:
+  ![ScreenShot](./src/images/req.png)     |  ![ScreenShot](./src/images/topTrump.png)
+  
+  ## Tecnologias usadas
+  * React
+  * React Components 
+  * HTML
+  * CSS
+  * Javacript
+  
+  ## Como usar
+  Acesse o site, configure as suas cartas com: nome, descrição, atributos, imagens, raridade e trunfoo, salve-as imprima o site ( a área de impressão foi configurada para imprimir apenas as cartas), corte as cartas e jogue com os amigos. Instruções do jogo podem ser encontradas em: <a href="https://www.wikihow.com/Play-Top-Trumps" target="_blank">INSTRUÇÕES</a>
+  
+  ## Informações de Desenvolvimento (Projeto Original)
+  Commits de Desenvolvimento: 28; <br>
+  Tempo Gasto: 3 dias;
+</details>
+
+
 This project was inspired on the first project I did while studying the module of Front end Web Development in the Trybe course. The main goal was to practice information transfer through props and practice styling through a figma model.
 
 ## My Goals
@@ -16,16 +55,11 @@ This project was inspired on the first project I did while studying the module o
 ## Screenshot
 ![ScreenShot](./src/images/fullPage.png)
 <br>
-Figma Model Image:
-<br>
+Figma Model Image:                      |           Page ScreenShot
+:--------------------------------------:|:--------------------------------------:
+![ScreenShot](./src/images/req.png)     |  ![ScreenShot](./src/images/topTrump.png)
+  
 
-![ScreenShot](./src/images/req.png)
-<br>
-
-Web version of Figma:
-<br>
-
-![ScreenShot](./src/images/topTrump.png)
 
 ## Used Technologies
   * React
