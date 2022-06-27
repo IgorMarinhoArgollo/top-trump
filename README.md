@@ -41,7 +41,7 @@
   ### Clonar no seu computador (via SSH)
   No terminal:
   
-    git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
+    git clone git@github.com:IgorMarinhoArgollo/top-trump.git
   
 
   ### Iniciando o projeto localmente
@@ -97,7 +97,7 @@ Figma Model Image:                      |           Page ScreenShot
   ### Cloning into your computer (via SSH)
   On terminal:
 
-      git clone git@github.com:IgorMarinhoArgollo/pixel-art.git
+      git clone git@github.com:IgorMarinhoArgollo/top-trump.git
 
   ### Starting project locally
   On the directory that you have cloned the repository, paste the command on terminal to start the application:
