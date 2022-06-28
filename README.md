@@ -42,6 +42,7 @@
   No terminal:
   
     git clone git@github.com:IgorMarinhoArgollo/top-trump.git
+    npm install
   
 
   ### Iniciando o projeto localmente
@@ -98,6 +99,7 @@ Figma Model Image:                      |           Page ScreenShot
   On terminal:
 
       git clone git@github.com:IgorMarinhoArgollo/top-trump.git
+      npm install
 
   ### Starting project locally
   On the directory that you have cloned the repository, paste the command on terminal to start the application:
