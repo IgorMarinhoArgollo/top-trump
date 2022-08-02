@@ -1,5 +1,14 @@
 # Top Trump Deck Builder Project
 
+<p>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igormarinhoargollo/top-trump?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/top-trump">
+  
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/top-trump">
+    
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  
 <details>
   <summary><h2>:brazil: Português</h2></summary>
   Esse projeto foi inspirado no primeiro projeto que fiz no módulo de Desenvolvimento Web FrontEnd no curso da Trybe, para fins educacionais.<br> O seu objetivo primário foi praticar transferência de informações por Props e praticar a estilização baseada em um modelo Figma.<br>
