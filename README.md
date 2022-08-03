@@ -12,7 +12,7 @@
 <details>
   <summary><h2>:brazil: Português</h2></summary>
   Esse projeto foi inspirado no primeiro projeto que fiz no módulo de Desenvolvimento Web FrontEnd no curso da Trybe, para fins educacionais.<br> O seu objetivo primário foi praticar transferência de informações por Props e praticar a estilização baseada em um modelo Figma.<br>
-  Nesse projeto é possível se criar um baralho do tipo Top Trump personalizado, imprimir, recortar as cartas e jogar com os amigos.
+  Nesse projeto é possível se criar um baralho do tipo Top Trump personalizado, imprimir, recortar as cartas e jogar com os amigos.<br><br>
   
   ## Objetivos
   * Usar Props para enviar informações entre componentes;
@@ -20,10 +20,10 @@
   * Design responsivo;
   * Permitir ao usuário realizar o upload de imagens para a geração de cartas;
   * Realizar configuração e área de impressão;
-  * Aplicar algumas validações nos campos de input.
+  * Aplicar algumas validações nos campos de input.<br><br>
 
   ## Live Link
-  <a href="http://top-trump-deckbuilder.netlify.app" target="_blank">Criador de Decks SuperTrunfo</a>
+  <a href="http://top-trump-deckbuilder.netlify.app" target="_blank">Criador de Decks SuperTrunfo</a><br><br>
   
   ## Screenshot
   ![ScreenShot](./src/images/fullPage.png)
@@ -32,15 +32,16 @@
   :--------------------------------------:|:--------------------------------------:
   ![ScreenShot](./src/images/req.png)     |  ![ScreenShot](./src/images/topTrump.png)
   
+  <br><br>
   ## Tecnologias usadas
   * React
   * React Components 
   * HTML
   * CSS
-  * Javacript
+  * Javacript<br><br>
   
   ## Como usar
-  Acesse o site, configure as suas cartas com: nome, descrição, atributos, imagens, raridade e trunfoo, salve-as imprima o site ( a área de impressão foi configurada para imprimir apenas as cartas), corte as cartas e jogue com os amigos. Instruções do jogo podem ser encontradas em: <a href="https://www.wikihow.com/Play-Top-Trumps" target="_blank">INSTRUÇÕES</a>
+  Acesse o site, configure as suas cartas com: nome, descrição, atributos, imagens, raridade e trunfoo, salve-as imprima o site ( a área de impressão foi configurada para imprimir apenas as cartas), corte as cartas e jogue com os amigos. Instruções do jogo podem ser encontradas em: <a href="https://www.wikihow.com/Play-Top-Trumps" target="_blank">INSTRUÇÕES</a><br><br>
       
   ## Rodar Localmente
   ### Requisitos:
@@ -58,15 +59,33 @@
   No diretório em que o repositório foi clonado, cole o seguinte comando no terminal para iniciar a aplicação localmente:
    
       npm start
-   
-  ## Informações de Desenvolvimento (Projeto Original)
+ <br><br>  
+ ## Informações de Desenvolvimento (Projeto Original)
   Commits de Desenvolvimento: 28; <br>
-  Tempo Gasto: 3 dias;
+  Tempo Gasto: 3 dias;<br><br>
+  
+  ## Como contribuir no projeto
+  1. Faça um **fork** do projeto;
+  2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`;
+  3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`;
+  4. Envie as suas alterações: `git push origin my-feature`;
+  5. Abra o seu pull-request na página do GitHub.<br><br>
+
+##  Autor
+<a href="https://www.linkedin.com/in/igormarinhoargollo/">
+ <img style="border-radius:300px;" src="https://avatars.githubusercontent.com/u/85767736?s=96&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Igor Marinho Argollo</b></sub></a> <a href="https://www.linkedin.com/in/igormarinhoargollo/"></a>
+ <br><br>
+
+  ## Licença
+  Esse projeto está sob a licença:
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"><br><br>
 </details>
 
 ##  
 
-This project was inspired on the first project I did while studying the module of Front end Web Development in the Trybe course, for educational purposes.<br> The main goal was to practice information transfer through props and practice styling through a figma model.<br> In this project it is possible to create a personalized Top Trump deck, print, cut the cards and play with friends.
+This project was inspired on the first project I did while studying the module of Front end Web Development in the Trybe course, for educational purposes.<br> The main goal was to practice information transfer through props and practice styling through a figma model.<br> In this project it is possible to create a personalized Top Trump deck, print, cut the cards and play with friends.<br><br>
 
 ## My Goals
  * Use Props to send information between components;
@@ -74,11 +93,11 @@ This project was inspired on the first project I did while studying the module o
  * Responsive design;
  * Allow the user to upload images to make cards;
  * Configure printable area;
- * Apply some validations on inputs.
+ * Apply some validations on inputs.<br><br>
 
 
 ## Live Link
-<a href="http://top-trump-deckbuilder.netlify.app" target="_blank">Top Trump Deck Builder</a>
+<a href="http://top-trump-deckbuilder.netlify.app" target="_blank">Top Trump Deck Builder</a><br><br>
   
 ## Screenshot
 ![ScreenShot](./src/images/fullPage.png)
@@ -87,17 +106,17 @@ Figma Model Image:                      |           Page ScreenShot
 :--------------------------------------:|:--------------------------------------:
 ![ScreenShot](./src/images/req.png)     |  ![ScreenShot](./src/images/topTrump.png)
   
-
+<br><br>
 
 ## Used Technologies
   * React
   * React Components 
   * HTML
   * CSS
-  * Javacript
+  * Javacript<br><br>
 
 ## How to use it
-  Go to the site, configure your cards with: name, description, attributes, images, rarity, top trump; save them, print the site (the printable area was cofigured to only print the saved cards), cut it from the paper and play with your friends. Instructions about how to play can be found in <a href="https://www.wikihow.com/Play-Top-Trumps" target="_blank">INSTRUCTIONS</a>
+  Go to the site, configure your cards with: name, description, attributes, images, rarity, top trump; save them, print the site (the printable area was cofigured to only print the saved cards), cut it from the paper and play with your friends. Instructions about how to play can be found in <a href="https://www.wikihow.com/Play-Top-Trumps" target="_blank">INSTRUCTIONS</a><br><br>
         
 ## Run Locally
   ### Requirements:
@@ -115,7 +134,25 @@ Figma Model Image:                      |           Page ScreenShot
 
       npm start
 
-    
+<br><br>    
 ## Development Information (Original Project)
   Development Commits: 28; <br>
-  Time Spent: 3 days; <br> 
+  Time Spent: 3 days; <br><br>
+  
+  ## How to contribute on the project
+  1. Make a **fork** of the project;
+  2. Create a new branch with your changes: `git checkout -b my-feature`;
+  3. Save your changes and create a commit message explaining what you have done: `git commit -m "feature: My new feature"`;
+  4. Send your changes: `git push origin my-feature`;
+  5. Open your pull-request on GitHub.<br><br>
+
+##  Author
+<a href="https://www.linkedin.com/in/igormarinhoargollo/">
+ <img style="border-radius:300px;" src="https://avatars.githubusercontent.com/u/85767736?s=96&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Igor Marinho Argollo</b></sub></a> <a href="https://www.linkedin.com/in/igormarinhoargollo/"></a>
+ <br><br>
+  
+## License
+  This project is under license:
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"><br><br>
