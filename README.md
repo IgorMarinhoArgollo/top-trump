@@ -84,7 +84,7 @@
 </details>
 
 ##  
-
+## :us: English
 This project was inspired on the first project I did while studying the module of Front end Web Development in the Trybe course, for educational purposes.<br> The main goal was to practice information transfer through props and practice styling through a figma model.<br> In this project it is possible to create a personalized Top Trump deck, print, cut the cards and play with friends.<br><br>
 
 ## My Goals
