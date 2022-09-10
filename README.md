@@ -59,10 +59,7 @@
   No diretório em que o repositório foi clonado, cole o seguinte comando no terminal para iniciar a aplicação localmente:
    
       npm start
- <br><br>  
- ## Informações de Desenvolvimento (Projeto Original)
-  Commits de Desenvolvimento: 28; <br>
-  Tempo Gasto: 3 dias;<br><br>
+ <br><br>
   
   ## Como contribuir no projeto
   1. Faça um **fork** do projeto;
@@ -134,10 +131,7 @@ Figma Model Image:                      |           Page ScreenShot
 
       npm start
 
-<br><br>    
-## Development Information (Original Project)
-  Development Commits: 28; <br>
-  Time Spent: 3 days; <br><br>
+<br><br>
   
   ## How to contribute on the project
   1. Make a **fork** of the project;
